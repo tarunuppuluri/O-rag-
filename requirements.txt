@@ -1,0 +1,6 @@
+pymupdf
+numpy
+sentence-transformers
+google-generativeai
+python-dotenv
+streamlit
